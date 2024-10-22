@@ -18,3 +18,14 @@ Extract the following data:
 * 300s/100s/50s/Mises
 * Geki & Katus
 * Replay Length
+
+# How to use it
+Type into terminal (OS X & Linux):
+``python3 osr-parser.py -osr /path/to/file.osr -osu /path/to/extracted/beatmap.osu``
+OR
+``python3 osr-parser.py --osr-path /path/to/file.osr --osu-path /path/to/extracted/beatmap.osu``
+
+Type into CMD (Windows):
+``py osr-parser.py -osr C:/path/to/file.osr -osu /path/to/extracted/beatmap.osu``
+OR
+``py osr-parser.py --osr-path C:/path/to/file.osr --osu-path /path/to/extracted/beatmap.osu``
