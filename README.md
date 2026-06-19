@@ -1,4 +1,5 @@
-(this is a very stupid vibecoded progam i made 2 years ago DO NOT USE THIS dawg....)
+> [!WARNING]
+> This is vibecoded and I made it 2 years ago lmfao. Please do not use this
 
 # OSR-PARSER
 Simple program written in Python for osu! replays
