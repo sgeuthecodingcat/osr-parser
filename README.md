@@ -1,3 +1,5 @@
+(this is a very stupid vibecoded progam i made 2 years ago DO NOT USE THIS dawg....)
+
 # OSR-PARSER
 Simple program written in Python for osu! replays
 
